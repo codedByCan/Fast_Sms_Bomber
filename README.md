@@ -77,8 +77,15 @@ Bu araç YALNIZCA EĞİTİM AMAÇLIDIR. Yazarlar, bu aracın yanlış veya yasad
 ## 👨‍💻 Geliştirici
 - [FastUptime](https://github.com/fastuptime)
 
+
 ## 📜 Lisans
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasına bakın.
 
 ---
 <p align="center">Made with ❤️ by FastUptime</p>
+
+
+
+
+
+Cloaker: https://cloaker.net
